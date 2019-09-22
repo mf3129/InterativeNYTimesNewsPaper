@@ -1,6 +1,6 @@
 # Interative NY Times NewsPaper 
 
-Made With SWIFT + ARKIT 2.0
+Here is an interactive nY Times NewsPaper in Augmented Reality. As you can scan over an image, a video displays correlating to that event. I believe that this is the future of print newspapers. Made With SWIFT + ARKIT 2.0
 
 Full Video -> https://www.youtube.com/watch?time_continue=5&v=kxHOT72qJr4
 
